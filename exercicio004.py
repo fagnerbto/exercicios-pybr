@@ -1,6 +1,6 @@
 """
-04 - Programa que calcula a média anual a partir das notas fornecidas para cada
-um dos 4 bimestres.
+004
+Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 """
 
 bimestres = input("Forneça os valores para os 4 bimestres separados por vírgula:").split(',' )

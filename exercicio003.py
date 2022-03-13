@@ -1,6 +1,6 @@
 """
 003
-Fornecendo dois números, retorne a soma
+Faça um Programa que peça dois números e imprima a soma.
 """
 print("Informe 2 números inteiros, conforme o sistema solicitar.")
 print("O sistema exibirá o resultado da soma dos dois números.")

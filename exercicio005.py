@@ -1,5 +1,6 @@
 """
-005 - Convertendo metros para centímetros
+005
+Faça um Programa que converta metros para centímetros.
 """
 
 valor_em_metros = int(input("Forneça o valor em metros que deseja converter para centímetros:"))
